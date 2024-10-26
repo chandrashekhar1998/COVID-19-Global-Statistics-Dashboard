@@ -1,3 +1,5 @@
+Website link: https://chandrashekhar1998.github.io/COVID-19-Global-Statistics-Dashboard/
+
 # COVID-19 Global Statistics Dashboard 
 
 This web application provides real-time COVID-19 statistics by country, displaying confirmed cases, active cases, recovered cases, deaths, population, and daily new cases. It fetches data from a public API and organizes it in a responsive, interactive table format.
