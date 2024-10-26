@@ -1,0 +1,30 @@
+body{
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+}
+
+h1{
+    margin-top:50px !important;
+    margin-bottom: 25px !important;
+    background-color: #140180;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+div.dt-container .dt-search input {
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #f8f9fa;
+    color: inherit;
+    margin-left: 3px;
+}
+
+div.dt-container .dt-input {
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #f8f9fa;
+    color: inherit;
+}    
